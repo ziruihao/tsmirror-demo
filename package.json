@@ -1,0 +1,18 @@
+{
+  "name": "runtime-typescript",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.ts",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "tsc": "^1.20150623.0"
+  },
+  "devDependencies": {
+    "@tsmirror/reflect": "^0.0.3",
+    "typescript": "^4.2.3"
+  }
+}
